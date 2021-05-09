@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Ismael-Oliv/DesafioSlideWorks/static/js/main.d263acdb.chunk.js",
+    "main.js.map": "/Ismael-Oliv/DesafioSlideWorks/static/js/main.d263acdb.chunk.js.map",
+    "runtime-main.js": "/Ismael-Oliv/DesafioSlideWorks/static/js/runtime-main.369a1072.js",
+    "runtime-main.js.map": "/Ismael-Oliv/DesafioSlideWorks/static/js/runtime-main.369a1072.js.map",
+    "static/js/2.052ea96c.chunk.js": "/Ismael-Oliv/DesafioSlideWorks/static/js/2.052ea96c.chunk.js",
+    "static/js/2.052ea96c.chunk.js.map": "/Ismael-Oliv/DesafioSlideWorks/static/js/2.052ea96c.chunk.js.map",
+    "index.html": "/Ismael-Oliv/DesafioSlideWorks/index.html",
+    "static/js/2.052ea96c.chunk.js.LICENSE.txt": "/Ismael-Oliv/DesafioSlideWorks/static/js/2.052ea96c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.369a1072.js",
+    "static/js/2.052ea96c.chunk.js",
+    "static/js/main.d263acdb.chunk.js"
+  ]
+}
